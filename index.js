@@ -14,5 +14,7 @@ function inc(n) {
   return n++
 }
 function dec(n) {
-  return n--
+  var number = n;
+  number++;
+  return number
 }
