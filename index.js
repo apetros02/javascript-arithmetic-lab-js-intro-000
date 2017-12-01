@@ -12,7 +12,7 @@ function divide(a, b) {
 }
 function inc(n) {
   var number = n;
-  number--;
+  number++;
   return number
 }
 function dec(n) {
